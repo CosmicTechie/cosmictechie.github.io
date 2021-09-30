@@ -1,6 +1,4 @@
-# cosmictechie.github.io
+# Nishant Kumar
 
-
-Hello,
-
+Hello,\
 I am Nishant Kumar a.k.a. Cosmic Techie.
