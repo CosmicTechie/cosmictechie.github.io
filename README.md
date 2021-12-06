@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
 <h3 align="center">I am a computer Science Engineer and a machine learning field enthusiast.</h3>
 
-- 🔭 I’m currently working on **Machine Learning and Data Science projects.**
+- 🔭 I’m currently working on **Machine Learning and Data Science projects. **
 
 - 🌱 I’m currently learning **AI and Data Science.**
 
